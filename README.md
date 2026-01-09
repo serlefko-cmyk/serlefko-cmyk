@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Serafeim 👋
 
-<!--
-**serlefko-cmyk/serlefko-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building **enterprise-grade web applications**.
 
-Here are some ideas to get you started:
+I enjoy working on real-world business systems with clean architecture, secure authentication, and scalable APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Tech Stack
+
+**Backend**
+- ASP.NET Core (.NET 8)
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- JWT Authentication
+- Docker & Docker Compose
+
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- Responsive UI
+- Dashboard-driven applications
+
+---
+
+## 🚀 Featured Project
+
+### 🏢 Enterprise Inventory Management System
+Full-stack enterprise inventory system with secure authentication, role-based access and dashboard UI.
+
+- Backend  
+  👉 https://github.com/serlefko-cmyk/enterprise-inventory-api
+
+- Frontend  
+  👉 https://github.com/serlefko-cmyk/enterprise-inventory-frontend
+
+**Tech:** ASP.NET Core • React / Next.js • SQL Server • Docker • JWT
